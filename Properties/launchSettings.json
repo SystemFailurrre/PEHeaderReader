@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PEHeaderReader": {
+      "commandName": "Project",
+      "commandLineArgs": "--file \"C:\\Users\\Gruzin\\source\\cplus\\HelloWorld\\HelloWorld\\Debug\\HelloWorld.exe\" -hr All"
+    }
+  }
+}
